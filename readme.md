@@ -7,7 +7,7 @@ Realtime chat app built by Electron + React + Redux.
 1. Install deps
 
 ```bash
-$ npm Install
+$ npm install
 ```
 
 2. Run server

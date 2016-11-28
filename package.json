@@ -1,12 +1,12 @@
 {
   "name": "kurz.io-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "Realtime chat app built by Electron + React + Redux.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": ".modernator",
   "license": "ISC",
   "dependencies": {
     "am2": "^1.0.4",
