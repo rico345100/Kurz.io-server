@@ -1,7 +1,7 @@
-![Image of Kurz.io](http://photon.modernator.me:/album/rico345100@gmail.com/git/kurzio/noti.png)
+![Kurz.io Title](/noti.png?raw=true "Title")
 
 # Kurz.io - Server
-Realtime chat app built by Electron + React + Redux.
+Realtime chat app built by Electron + React + Redux. Check the [client](https://github.com/rico345100/Kurz.io-client) side too.
 
 ## Run
 1. Install deps
@@ -27,5 +27,5 @@ Much of code are not good to see, because when I made this app, I was not experi
 Packaging for Windows Platform will not trigger notification properly, it is bug when using electron-packager.
 
 ## Screenshots
-![Screenshot2](http://photon.modernator.me:/album/rico345100@gmail.com/git/kurzio/2.png)
-![Screenshot1](http://photon.modernator.me:/album/rico345100@gmail.com/git/kurzio/1.png)
+![Screenshot1](/2.png?raw=true "Screenshot1")
+![Screenshot2](/1.png?raw=true "Screenshot2")
