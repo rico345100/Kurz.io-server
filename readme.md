@@ -29,3 +29,8 @@ Packaging for Windows Platform will not trigger notification properly, it is bug
 ## Screenshots
 ![Screenshot1](/2.png?raw=true "Screenshot1")
 ![Screenshot2](/1.png?raw=true "Screenshot2")
+
+## Buy me a coffee!
+Donations are big help for me to continue my development!
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PVXTU5FJNBLDS)
